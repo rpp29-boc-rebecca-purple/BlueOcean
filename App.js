@@ -6,7 +6,7 @@ export default function App() {
   return (
     <View style={styles.container}>
       <Text> App goes here</Text>
-      </View>
+    </View>
   );
 }
 

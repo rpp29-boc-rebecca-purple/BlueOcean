@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "password-encryptor",
-    "slug": "password-encryptor",
+    "name": "CrutonChat",
+    "slug": "CrutonChat",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
